@@ -25,7 +25,8 @@ For the forward kinematic equations, the Denavit-Hartenberg (DH) Convention was 
 For the inverse kinematics portion, an analytical approach was used in coming up with the joint variable equations. Each of the joint angles have rotational constraints which are taken into consideration in this program.
 
 ## Project Application
-The image below shows the final product of the PUMA560 program that would calculate forward and inverse kinematics. 
+The image below shows the final product of the PUMA560 program that would calculate forward and inverse kinematics. <br>
+![](images/Puma560_App_and_Plot.png)
 
 https://prespafree1.github.io/PUMA560/
 
