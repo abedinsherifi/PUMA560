@@ -6,7 +6,7 @@
   <a href="https://github.com/prespafree1/PUMA560">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/prespafree1/PUMA560.svg">
   </a>
-  <a href="https://github.com/prespafree1/Cardano-ADA-Regression-Analysis">
+  <a href="https://github.com/prespafree1/PUMA560">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/prespafree1/PUMA560.svg">
   </a>
     <a href="https://github.com/prespafree1/PUMA560/graphs/contributors" alt="Contributors">
