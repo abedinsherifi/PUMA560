@@ -1,7 +1,4 @@
 % Abedin Sherifi
-% Programming Assignment #1
-% 11/10/2019
-% RBE 500
 
 clear all; close all;
 syms c1 s1 c2 s2 c3 s3 c4 s4 c5 s5
