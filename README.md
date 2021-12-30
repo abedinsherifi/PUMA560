@@ -26,5 +26,5 @@ For the inverse kinematics portion, an analytical approach was used in coming up
 
 ## Project Application
 The image below shows the final product of the PUMA560 program that would calculate forward and inverse kinematics. <br>
-![](images/Puma560_Product.png)
+![](images/PUMA560.png)
 
